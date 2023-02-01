@@ -2,8 +2,8 @@ package com.kata;
 
 public class Tamagotchi {
     
-    int mood = 4;
-    int hunger = 4;
-    int energy = 4;
+    private int mood = 4;
+    private int hunger = 4;
+    private int energy = 4;
 
 }
